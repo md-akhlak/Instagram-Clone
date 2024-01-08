@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/ighome"
+        android:icon="@drawable/hut"
+        android:title="home" />
+
+
+    <item
+        android:id="@+id/igSearh"
+        android:icon="@drawable/search"
+        android:title="search" />
+
+    <item
+        android:id="@+id/ig_post"
+        android:icon="@drawable/plus"
+        android:title="post" />
+
+    <item
+        android:id="@+id/ig_reels"
+        android:icon="@drawable/reels"
+        android:title="reels" />
+
+    <item
+        android:id="@+id/userid"
+        android:icon="@drawable/isprofile"
+        android:title="@string/title_home"
+
+        />
+
+
+</menu>
